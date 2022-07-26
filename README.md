@@ -1,1 +1,1 @@
-A repository aimed to practise python programming 
+Python - Everything is object
