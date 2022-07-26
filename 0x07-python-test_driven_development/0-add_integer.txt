@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+import unittest
+from 0-add_integer import add_integer
+
+class test_add_integer(unittest.TestCase):
+    #this class tests the functions in add_integer module
+
+    def test_add(self):
+        self.assertEqual(add_integer(3, 5), 3 + 5)
